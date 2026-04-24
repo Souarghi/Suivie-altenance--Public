@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="Logo Suivi Alternance" width="100" />
+  <img src="logo.png" alt="Logo Suivi Alternance" width="100" />
   
   # 🎯 Suivi Alternance
   **Le tableau de bord pensé par une étudiante, pour les étudiants.**
